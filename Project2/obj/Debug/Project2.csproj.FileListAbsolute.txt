@@ -1,0 +1,9 @@
+C:\Users\ilia\Desktop\B18 Ex02 AlexeyVasyanovich 319618989 IliaNaleva 319299756\Project2\bin\Debug\Project2.exe.config
+C:\Users\ilia\Desktop\B18 Ex02 AlexeyVasyanovich 319618989 IliaNaleva 319299756\Project2\bin\Debug\Project2.exe
+C:\Users\ilia\Desktop\B18 Ex02 AlexeyVasyanovich 319618989 IliaNaleva 319299756\Project2\bin\Debug\Project2.pdb
+C:\Users\ilia\Desktop\B18 Ex02 AlexeyVasyanovich 319618989 IliaNaleva 319299756\Project2\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\ilia\Desktop\B18 Ex02 AlexeyVasyanovich 319618989 IliaNaleva 319299756\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Users\ilia\Desktop\B18 Ex02 AlexeyVasyanovich 319618989 IliaNaleva 319299756\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Users\ilia\Desktop\B18 Ex02 AlexeyVasyanovich 319618989 IliaNaleva 319299756\Project2\obj\Debug\Project2.csproj.CopyComplete
+C:\Users\ilia\Desktop\B18 Ex02 AlexeyVasyanovich 319618989 IliaNaleva 319299756\Project2\obj\Debug\Project2.exe
+C:\Users\ilia\Desktop\B18 Ex02 AlexeyVasyanovich 319618989 IliaNaleva 319299756\Project2\obj\Debug\Project2.pdb
